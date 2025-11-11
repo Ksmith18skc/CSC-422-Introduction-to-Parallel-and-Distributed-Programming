@@ -144,7 +144,7 @@ This repository represents academic coursework completed for CSC 422. The focus 
 ## 🔗 Course Information
 
 **Course:** CSC 422 - Introduction to Parallel and Distributed Programming  
-**Institution:** [Your Institution]  
+**Institution:** University of Arizona  
 **Semester:** Spring 2025
 
 ---
